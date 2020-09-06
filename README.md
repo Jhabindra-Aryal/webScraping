@@ -15,4 +15,4 @@ Hint:since this website is dynamic use selenium for fetching pagesource.
 Copy webscraping directory in E: drive. OR, in webscraping.py change webdriver's path to where your driver is located.
        
        
-                   BEST OF LUCK
+                                                              BEST OF LUCK

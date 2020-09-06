@@ -10,6 +10,9 @@ library are present.
 Task:
 -Use bs4 to extract data from Nepal's covid19.mohp.gov.np.
 (the extracted data should be number of total cases in Nepal.)
+
+Hint:since this website is dynamic use selenium for fetching pagesource.
+Copy webscraping directory in E: drive. OR, in webscraping.py change webdriver's path to where your driver is located.
        
        
                    BEST OF LUCK
